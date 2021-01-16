@@ -26,7 +26,7 @@ $(call inherit-product, vendor/legion/config/common_full_phone.mk)
 
 # LegionOS
 TARGET_BOOT_ANIMATION_RES := 1080
-LEGION_BUILD_TYPE := Official
+LEGION_BUILD_TYPE := OFFICIAL
 
 # LegionOS Device Maintainers
 PRODUCT_PROPERTY_OVERRIDES += \
