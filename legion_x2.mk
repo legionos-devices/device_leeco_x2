@@ -27,6 +27,7 @@ $(call inherit-product, vendor/legion/config/common_full_phone.mk)
 # LegionOS
 TARGET_BOOT_ANIMATION_RES := 1080
 LEGION_BUILD_TYPE := OFFICIAL
+LEGION_MAINTAINER := CrisBalGreece
 TARGET_GAPPS_ARCH := arm64
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 
