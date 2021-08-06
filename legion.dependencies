@@ -1,8 +1,6 @@
 [
  {
-    "repository" : "legionos-devices/device_leeco_x2",
-    "target_path": "device/leeco/x2",
-    "branch": "11",
-    "remote": "github"
+   "repository": "device_leeco_msm8996-common",
+   "target_path": "device/leeco/msm8996-common"
  }
 ]
